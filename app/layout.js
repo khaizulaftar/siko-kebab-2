@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata = {
-  title: "siko kebab",
+  title: "siko kebab lubeg",
   description: "siko kebab siko selah bali",
 }
 
